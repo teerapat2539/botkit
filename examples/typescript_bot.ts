@@ -6,6 +6,8 @@
             \/_____/   \/_____/     \/_/   \/_/\/_/   \/_/     \/_/
 
 
+Hello i,m tyscript
+
 This is a sample Slack bot built with Botkit and Typescript.
 
 # RUN THE BOT:
