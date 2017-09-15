@@ -5,6 +5,7 @@ var tmpdir = require('os').tmpdir();
 var fs = require('fs');
 var winston = require('winston');
 
+//set token in .env
 var token = process.env.TOKEN;
 
 describe('Test', function() {
